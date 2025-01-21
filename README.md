@@ -1,3 +1,5 @@
+<img align="center" src="https://raw.githubusercontent.com/MarcelGeoRGB/MarcelGeoRGB/main/GitHub-Banner.png" width="100%" alt="banner">
+
 <h1 align="center">
  <b>Hi there, I'm Marcel</b> 
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjAwdDA0dWY4djFrd2xudWZlZWtxY2Vuamx2cmRoY2RnbXZkYWgzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LPgFwCQg4HQBvPihcn/giphy.gif" width="65">
