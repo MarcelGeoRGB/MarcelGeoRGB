@@ -35,6 +35,6 @@
 - 🌱 Dedicated to sharing knowledge through freelancing and mentoring opportunities
 - 📝 Sharing insights on [GeoRGB Geostatistics Blog](https://giscourse.online/georgb-geostatistics-blog/)
 - 🛠️ Tech stack: GIS Software, R for Geostatistics, AI-assisted programming across multiple languages
-- 🌐 Languages: Spanish (Native), English (Professional)
+- 🌐 Languages: Spanish and Catalan (Native), English (Professional)
 - 💬 Let's discuss geospatial analysis and geostatistics for environmental projects
 - 📫 Reach me at: marcel.a@giscourse.online
