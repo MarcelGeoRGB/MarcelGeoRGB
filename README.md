@@ -22,4 +22,17 @@
 [![GitHub followers](https://img.shields.io/github/followers/MarcelGeoRGB?style=social)](https://github.com/MarcelGeoRGB)
 <img src="https://komarev.com/ghpvc/?username=MarcelGeoRGB&label=Profile%20views&color=0e75b6&style=flat" alt="MarcelGeoRGB" />
 
+## 👨‍💻 About me
 
+- 🏢 Founder & Director at [GeoRGB Community](https://giscourse.online/), empowering geoscientists through innovative solutions
+- 🎓 Solid academic foundation: BSc & MSc in Geology, Postgraduate in Hydrogeology, MSc in Geographic Information Systems
+- 💼 Seasoned hydrogeologist with 10+ years in the oil & gas industry, spanning upstream & downstream sectors
+- 🌍 Expert in groundwater dynamics, soil remediation & hydrocarbon contamination management
+- 🎯 Passionate about leveraging GIS technology to tackle complex geological & hydrogeological challenges
+- 🤖 Pioneering AI integration in geoscience applications and environmental solutions
+- 🌱 Dedicated to sharing knowledge through freelancing and mentoring opportunities
+- 📝 Sharing insights on [GeoRGB Geostatistics Blog](https://giscourse.online/georgb-geostatistics-blog/)
+- 🛠️ Tech stack: GIS Software, R for Geostatistics, AI-assisted programming across multiple languages
+- 🌐 Languages: Spanish (Native), English (Professional)
+- 💬 Let's discuss geospatial analysis and geostatistics for environmental projects
+- 📫 Reach me at: marcel.a@giscourse.online
