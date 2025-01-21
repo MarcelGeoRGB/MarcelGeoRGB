@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About me
 
-- 🏢 Founder & Director at [GeoRGB Community](https://giscourse.online/), empowering geoscientists through innovative solutions
+- 🏢 Founder of [GeoRGB Community](https://giscourse.online/), empowering geoscientists through innovative solutions
 - 🎥 Content Creator on [YouTube](https://www.youtube.com/c/GeoRGBCommunity) since 2018, with 140+ tutorials on geosciences
 - 👨‍🏫 Lead Instructor at [GisCourse Online](https://giscourse.online/), teaching a community of 3000+ students
 - 🎓 Solid academic foundation: BSc & MSc in Geology, Postgraduate in Hydrogeology, MSc in Geographic Information Systems
