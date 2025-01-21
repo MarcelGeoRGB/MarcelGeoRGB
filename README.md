@@ -16,5 +16,9 @@
 </p>
 <br>
 
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp0ftAXUnQFgWzx4SISUKrA?style=social)](https://youtube.com/@marcelgeorgb)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=social&logo=Facebook)](https://facebook.com/profile.php?id=100067686611165)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin)](https://www.linkedin.com/in/TU-USUARIO)
+[![GitHub followers](https://img.shields.io/github/followers/MarcelGeoRGB?style=social)](https://github.com/MarcelGeoRGB)
 
 
