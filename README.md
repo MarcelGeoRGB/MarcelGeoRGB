@@ -20,5 +20,6 @@
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook)](https://facebook.com/profile.php?id=100067686611165)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/marcel-cedrez/)
 [![GitHub followers](https://img.shields.io/github/followers/MarcelGeoRGB?style=social)](https://github.com/MarcelGeoRGB)
+<img src="https://komarev.com/ghpvc/?username=MarcelGeoRGB&label=Profile%20views&color=0e75b6&style=flat" alt="MarcelGeoRGB" />
 
 
