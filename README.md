@@ -18,7 +18,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCp0ftAXUnQFgWzx4SISUKrA?style=social)](https://www.youtube.com/c/GeoRGBCommunity/videos)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook)](https://facebook.com/profile.php?id=100067686611165)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/TU-USUARIO)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin)](https://www.linkedin.com/in/marcel-cedrez/)
 [![GitHub followers](https://img.shields.io/github/followers/MarcelGeoRGB?style=social)](https://github.com/MarcelGeoRGB)
 
 
