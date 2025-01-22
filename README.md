@@ -38,7 +38,7 @@
 - 🌐 Languages: Spanish and Catalan (Native), English (Professional)
 - 💬 Let's discuss geospatial analysis and geostatistics for environmental projects
 - 📫 Reach me at: marcel.a@giscourse.online
-## Code projects
+## 💻 Code Projects 
 <table>
 <tr>
 <td width="50%">
@@ -51,7 +51,7 @@
 </a>
 </p>
 <div style="text-align: justify;">
-<p><strong>Automate Your Environmental Data Analysis with GeoSample Pro Analyzer</strong> In this video, I'll show you how the <strong>GeoSample Pro Analyzer</strong> app can instantly generate tables with soil and groundwater analytical results and compare them with guidelines. I'll walk you through its key features, from uploading CSV files to customizing reports and visualizing data. Ready to streamline your workflow? Let's dive in!</p>
+<p><strong>Automate Your Environmental Data Analysis with GeoSample Pro Analyzer.</strong> In this video, I'll show you how the <strong>GeoSample Pro Analyzer</strong> app can instantly generate tables with soil and groundwater analytical results and compare them with guidelines. I'll walk you through its key features, from uploading CSV files to customizing reports and visualizing data. Ready to streamline your workflow? Let's dive in!</p>
 </div>
 </div>
 </td>
@@ -80,37 +80,39 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center"><i style="text-decoration: underline; color: #2E86C1;">Geostatistics Course for beginners. Integrating R with QGIS</i></h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://www.youtube.com/watch?v=3EQ0G_SSm9A" target="_blank"><img src="https://github.com/MarcelGeoRGB/MarcelGeoRGB/raw/main/images/R_QGIS_card.jpg" width="400" alt="Geostatistics Course for beginners"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+<a href="https://www.youtube.com/watch?v=3EQ0G_SSm9A" target="_blank">
+<img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<div style="text-align: justify;">
+<p><strong>Course Summary: Integrating R Scripts in QGIS with Geostatistics Fundamentals</strong> This course is designed to teach the integration of R scripts into QGIS while building a solid foundation in geostatistics, focusing on exploratory data analysis. Participants will learn to create custom algorithms, automate workflows, and apply R for data visualization, testing, and estimation within the QGIS environment.</p>
 </div>
-                                                                                      
-</td>       
+</div>
+</td>      
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center"><i style="text-decoration: underline; color: #2E86C1;"></i></h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="#" target="_blank"><img src="#" width="400" alt="Future Project"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+<a href="#" target="_blank">
+<img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<div style="text-align: justify;">
+<p></p>
 </div>
-                                                                                      
+</div>
 </td>  
 </table>                                                                                 
 </div>
