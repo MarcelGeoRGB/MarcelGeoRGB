@@ -46,6 +46,9 @@
 <div align="center">
 <a href="https://www.youtube.com/watch?v=3aKUhf7f_EA" target="_blank"><img src="https://github.com/MarcelGeoRGB/MarcelGeoRGB/raw/main/images/GeoSample_Pro_Analyzer_Thumbnail.png" width="400" alt="GeoSample Pro Analizer"></a>
 <p>
+<a href="https://github.com/MarcelGeoRGB/GeoSample-Pro-Analizer" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
+</a>
 <a href="https://www.youtube.com/watch?v=3aKUhf7f_EA" target="_blank">
 <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
