@@ -101,19 +101,19 @@
 </td>      
 
 <td width="50%">
-<h3 align="center"><i style="text-decoration: underline; color: #2E86C1;"></i></h3>
+<h3 align="center"><i style="text-decoration: underline; color: #2E86C1;">QGIS Plugin Development with AI 🤖 | From Field Expert to Developer 💡</i></h3>
 <div align="center">
-<a href="#" target="_blank"><img src="#" width="400" alt="Future Project"></a>
+<a href="https://youtu.be/W8rZV55AW7E" target="_blank"><img src="https://github.com/MarcelGeoRGB/MarcelGeoRGB/blob/main/images/QGIS-Plugin-Development-with-AI--From-Field-Expert-to-Developer-.png" width="400" alt="QGIS Plugin Development with AI"></a>
 <p>
-<a href="#" target="_blank">
+<a href="https://github.com/MarcelGeoRGB/Sampling-Time-QGIS-Plugin" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="#" target="_blank">
+<a href="https://youtu.be/W8rZV55AW7E" target="_blank">
 <img src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
 </p>
 <div style="text-align: justify;">
-<p></p>
+<p><strong>In this first video of a six-part series, I walk you through how AI helped bridge field expertise and software creation—no coding PhD required!</strong> You’ll see how to install and use this free, open-source plugin while exploring each sampling method—judgmental, random, systematic, stratified, and cluster. Get a behind-the-scenes look at the design decisions, learn how to generate samples effectively, and discover the real journey of building a QGIS plugin with AI. Ready to transform your geospatial workflow? Let’s dive in!</p>
 </div>
 </div>
 </td>  
